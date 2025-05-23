@@ -1,0 +1,96 @@
+{"level":"info","message":"Starting server with HOST : true, PORT : 6000, HTTPS_PORT : 443","timestamp":"2025-05-23 17:55:50"}
+{"level":"error","message":"Error: getaddrinfo ENOTFOUND true","timestamp":"2025-05-23 17:55:52"}
+{"level":"info","message":"Starting server with HOST : true, PORT : 6000, HTTPS_PORT : 443","timestamp":"2025-05-23 17:56:04"}
+{"level":"info","message":"Starting server with HOST : true, PORT : 6000, HTTPS_PORT : 443","timestamp":"2025-05-23 17:56:06"}
+{"level":"error","message":"Error: getaddrinfo ENOTFOUND true","timestamp":"2025-05-23 17:56:08"}
+{"level":"info","message":"Starting server with HOST : true, PORT : 6000, HTTPS_PORT : 443","timestamp":"2025-05-23 17:57:57"}
+{"level":"error","message":"Error: getaddrinfo ENOTFOUND true","timestamp":"2025-05-23 17:58:00"}
+{"level":"info","message":"Starting server with HOST : 10.2.6.142, PORT : 6000, HTTPS_PORT : 443","timestamp":"2025-05-23 17:58:54"}
+{"level":"info","message":"Starting server with HOST : 10.2.6.142, PORT : 6000, HTTPS_PORT : 443","timestamp":"2025-05-23 17:58:55"}
+{"level":"info","message":"Starting server with HOST : 10.2.6.142, PORT : 6000, HTTPS_PORT : 443","timestamp":"2025-05-23 17:59:38"}
+{"level":"info","message":"Starting server with HOST : 10.2.6.142, PORT : 6000, HTTPS_PORT : 443","timestamp":"2025-05-23 17:59:39"}
+{"level":"info","message":"Starting server with HOST : 10.2.6.142, PORT : 6000, HTTPS_PORT : 443","timestamp":"2025-05-23 18:00:11"}
+{"level":"info","message":"Starting server with HOST : 10.2.6.142, PORT : 6000, HTTPS_PORT : 443","timestamp":"2025-05-23 18:00:19"}
+{"level":"info","message":"Starting server with HOST : 10.2.6.142, PORT : 6000, HTTPS_PORT : 443","timestamp":"2025-05-23 18:00:25"}
+{"level":"info","message":"Starting server with HOST : 10.2.6.142, PORT : 6000, HTTPS_PORT : 443","timestamp":"2025-05-23 18:00:27"}
+{"level":"info","message":"Starting server with HOST : 10.2.6.142, PORT : 6000, HTTPS_PORT : 443","timestamp":"2025-05-23 18:00:29"}
+{"level":"info","message":"Starting server with HOST : 10.2.6.142, PORT : 6000, HTTPS_PORT : 443","timestamp":"2025-05-23 18:00:39"}
+{"level":"info","message":"HTTP Sever running on 6000","timestamp":"2025-05-23 18:00:39"}
+{"level":"info","message":"HTTP access via IPv4:","timestamp":"2025-05-23 18:00:39"}
+{"level":"info","message":"http://10.2.6.142:6000","timestamp":"2025-05-23 18:00:39"}
+{"level":"info","message":"http://192.168.137.1:6000","timestamp":"2025-05-23 18:00:39"}
+{"level":"info","message":"http://172.18.112.1:6000","timestamp":"2025-05-23 18:00:39"}
+{"level":"info","message":"http://172.30.240.1:6000","timestamp":"2025-05-23 18:00:39"}
+{"level":"info","message":"HTTP Swagger documentation available at : http://10.2.6.142:6000/docs","timestamp":"2025-05-23 18:00:39"}
+{"level":"info","message":"HTTPS server running on 443","timestamp":"2025-05-23 18:00:39"}
+{"level":"info","message":"HTTPS access via IPv4:","timestamp":"2025-05-23 18:00:39"}
+{"level":"info","message":"https://10.2.6.142:443","timestamp":"2025-05-23 18:00:39"}
+{"level":"info","message":"https://192.168.137.1:443","timestamp":"2025-05-23 18:00:39"}
+{"level":"info","message":"https://172.18.112.1:443","timestamp":"2025-05-23 18:00:39"}
+{"level":"info","message":"https://172.30.240.1:443","timestamp":"2025-05-23 18:00:39"}
+{"level":"info","message":"Swagger documentation available at: https://10.2.6.142:443/docs","timestamp":"2025-05-23 18:00:39"}
+{"level":"info","message":"Note: Since you're using self-signed certificates, you may need to accept the security warning in your browser.","timestamp":"2025-05-23 18:00:39"}
+{"level":"info","message":"Starting server with HOST : 10.2.6.142, PORT : 6000, HTTPS_PORT : 443","timestamp":"2025-05-23 18:00:41"}
+{"level":"info","message":"HTTP Sever running on 6000","timestamp":"2025-05-23 18:00:41"}
+{"level":"info","message":"HTTP access via IPv4:","timestamp":"2025-05-23 18:00:41"}
+{"level":"info","message":"http://10.2.6.142:6000","timestamp":"2025-05-23 18:00:41"}
+{"level":"info","message":"http://192.168.137.1:6000","timestamp":"2025-05-23 18:00:41"}
+{"level":"info","message":"http://172.18.112.1:6000","timestamp":"2025-05-23 18:00:41"}
+{"level":"info","message":"http://172.30.240.1:6000","timestamp":"2025-05-23 18:00:41"}
+{"level":"info","message":"HTTP Swagger documentation available at : http://10.2.6.142:6000/docs","timestamp":"2025-05-23 18:00:41"}
+{"level":"info","message":"HTTPS server running on 443","timestamp":"2025-05-23 18:00:41"}
+{"level":"info","message":"HTTPS access via IPv4:","timestamp":"2025-05-23 18:00:41"}
+{"level":"info","message":"https://10.2.6.142:443","timestamp":"2025-05-23 18:00:41"}
+{"level":"info","message":"https://192.168.137.1:443","timestamp":"2025-05-23 18:00:41"}
+{"level":"info","message":"https://172.18.112.1:443","timestamp":"2025-05-23 18:00:41"}
+{"level":"info","message":"https://172.30.240.1:443","timestamp":"2025-05-23 18:00:41"}
+{"level":"info","message":"Swagger documentation available at: https://10.2.6.142:443/docs","timestamp":"2025-05-23 18:00:41"}
+{"level":"info","message":"Note: Since you're using self-signed certificates, you may need to accept the security warning in your browser.","timestamp":"2025-05-23 18:00:41"}
+{"level":"info","message":"Starting server with HOST : 10.2.6.142, PORT : 6000, HTTPS_PORT : 443","timestamp":"2025-05-23 18:03:54"}
+{"level":"info","message":"HTTP Sever running on 6000","timestamp":"2025-05-23 18:03:54"}
+{"level":"info","message":"HTTP access via IPv4:","timestamp":"2025-05-23 18:03:54"}
+{"level":"info","message":"http://10.2.6.142:6000","timestamp":"2025-05-23 18:03:54"}
+{"level":"info","message":"http://192.168.137.1:6000","timestamp":"2025-05-23 18:03:54"}
+{"level":"info","message":"http://172.18.112.1:6000","timestamp":"2025-05-23 18:03:54"}
+{"level":"info","message":"http://172.30.240.1:6000","timestamp":"2025-05-23 18:03:54"}
+{"level":"info","message":"HTTP Swagger documentation available at : http://10.2.6.142:6000/docs","timestamp":"2025-05-23 18:03:54"}
+{"level":"info","message":"HTTPS server running on 443","timestamp":"2025-05-23 18:03:54"}
+{"level":"info","message":"HTTPS access via IPv4:","timestamp":"2025-05-23 18:03:54"}
+{"level":"info","message":"https://10.2.6.142:443","timestamp":"2025-05-23 18:03:54"}
+{"level":"info","message":"https://192.168.137.1:443","timestamp":"2025-05-23 18:03:54"}
+{"level":"info","message":"https://172.18.112.1:443","timestamp":"2025-05-23 18:03:54"}
+{"level":"info","message":"https://172.30.240.1:443","timestamp":"2025-05-23 18:03:54"}
+{"level":"info","message":"Swagger documentation available at: https://10.2.6.142:443/docs","timestamp":"2025-05-23 18:03:54"}
+{"level":"info","message":"Note: Since you're using self-signed certificates, you may need to accept the security warning in your browser.","timestamp":"2025-05-23 18:03:54"}
+{"level":"info","message":"Starting server with HOST : 10.2.6.142, PORT : 6000, HTTPS_PORT : 443","timestamp":"2025-05-23 18:03:55"}
+{"level":"info","message":"HTTP Sever running on 6000","timestamp":"2025-05-23 18:03:55"}
+{"level":"info","message":"HTTP access via IPv4:","timestamp":"2025-05-23 18:03:55"}
+{"level":"info","message":"http://10.2.6.142:6000","timestamp":"2025-05-23 18:03:55"}
+{"level":"info","message":"http://192.168.137.1:6000","timestamp":"2025-05-23 18:03:55"}
+{"level":"info","message":"http://172.18.112.1:6000","timestamp":"2025-05-23 18:03:55"}
+{"level":"info","message":"http://172.30.240.1:6000","timestamp":"2025-05-23 18:03:55"}
+{"level":"info","message":"HTTP Swagger documentation available at : http://10.2.6.142:6000/docs","timestamp":"2025-05-23 18:03:55"}
+{"level":"info","message":"HTTPS server running on 443","timestamp":"2025-05-23 18:03:55"}
+{"level":"info","message":"HTTPS access via IPv4:","timestamp":"2025-05-23 18:03:55"}
+{"level":"info","message":"https://10.2.6.142:443","timestamp":"2025-05-23 18:03:55"}
+{"level":"info","message":"https://192.168.137.1:443","timestamp":"2025-05-23 18:03:55"}
+{"level":"info","message":"https://172.18.112.1:443","timestamp":"2025-05-23 18:03:55"}
+{"level":"info","message":"https://172.30.240.1:443","timestamp":"2025-05-23 18:03:55"}
+{"level":"info","message":"Swagger documentation available at: https://10.2.6.142:443/docs","timestamp":"2025-05-23 18:03:55"}
+{"level":"info","message":"Note: Since you're using self-signed certificates, you may need to accept the security warning in your browser.","timestamp":"2025-05-23 18:03:55"}
+{"level":"info","message":"Starting server with HOST : 10.2.6.142, PORT : 6000, HTTPS_PORT : 443","timestamp":"2025-05-23 18:04:26"}
+{"level":"info","message":"HTTP Sever running on 6000","timestamp":"2025-05-23 18:04:26"}
+{"level":"info","message":"HTTP access via IPv4:","timestamp":"2025-05-23 18:04:26"}
+{"level":"info","message":"http://10.2.6.142:6000","timestamp":"2025-05-23 18:04:26"}
+{"level":"info","message":"http://192.168.137.1:6000","timestamp":"2025-05-23 18:04:26"}
+{"level":"info","message":"http://172.18.112.1:6000","timestamp":"2025-05-23 18:04:26"}
+{"level":"info","message":"http://172.30.240.1:6000","timestamp":"2025-05-23 18:04:26"}
+{"level":"info","message":"HTTP Swagger documentation available at : http://10.2.6.142:6000/docs","timestamp":"2025-05-23 18:04:26"}
+{"level":"info","message":"HTTPS server running on 443","timestamp":"2025-05-23 18:04:26"}
+{"level":"info","message":"HTTPS access via IPv4:","timestamp":"2025-05-23 18:04:26"}
+{"level":"info","message":"https://10.2.6.142:443","timestamp":"2025-05-23 18:04:26"}
+{"level":"info","message":"https://192.168.137.1:443","timestamp":"2025-05-23 18:04:26"}
+{"level":"info","message":"https://172.18.112.1:443","timestamp":"2025-05-23 18:04:26"}
+{"level":"info","message":"https://172.30.240.1:443","timestamp":"2025-05-23 18:04:26"}
+{"level":"info","message":"Swagger documentation available at: https://10.2.6.142:443/docs","timestamp":"2025-05-23 18:04:26"}
+{"level":"info","message":"Note: Since you're using self-signed certificates, you may need to accept the security warning in your browser.","timestamp":"2025-05-23 18:04:26"}

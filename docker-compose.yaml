@@ -1,0 +1,29 @@
+version: "3.8"
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        - NODE_ENV=${NODE_ENV}
+    container_name: auth-base-service
+    restart: unless-stopped
+    env_file:
+      - .env.prod
+    environment:
+      - NODE_ENV=production
+      - PORT=6000
+      - HTTPS_PORT=443
+      - USE_DOCKER_IP=true
+      - APP_VERSION=${APP_VERSION}
+    volumes:
+      - ./certs:/app/certs
+      - ./logs:/app/logs
+    ports:
+      - "6000:6000" #http
+      - "443:443" #https
+    networks:
+      - app-network
+networks:
+  app-network:
+    driver: bridge

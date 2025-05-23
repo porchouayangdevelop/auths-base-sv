@@ -1,0 +1,12 @@
+{"level":"error","message":"Error: getaddrinfo ENOTFOUND true","timestamp":"2025-05-23 17:55:52"}
+{"level":"error","message":"Error: getaddrinfo ENOTFOUND true","timestamp":"2025-05-23 17:56:08"}
+{"level":"error","message":"Error: getaddrinfo ENOTFOUND true","timestamp":"2025-05-23 17:58:00"}
+{"level":"error","message":"Error: v4 is not defined","timestamp":"2025-05-23 17:58:54"}
+{"level":"error","message":"Error: v4 is not defined","timestamp":"2025-05-23 17:58:55"}
+{"level":"error","message":"Error: httpsPort is not defined","timestamp":"2025-05-23 17:59:38"}
+{"level":"error","message":"Error: httpsPort is not defined","timestamp":"2025-05-23 17:59:39"}
+{"level":"error","message":"Error: httpsPort is not defined","timestamp":"2025-05-23 18:00:12"}
+{"level":"error","message":"Error: httpsPort is not defined","timestamp":"2025-05-23 18:00:19"}
+{"level":"error","message":"Error: httpsPort is not defined","timestamp":"2025-05-23 18:00:25"}
+{"level":"error","message":"Error: httpsPort is not defined","timestamp":"2025-05-23 18:00:27"}
+{"level":"error","message":"Error: httpsPort is not defined","timestamp":"2025-05-23 18:00:29"}
