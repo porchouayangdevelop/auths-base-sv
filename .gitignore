@@ -3,7 +3,6 @@
 
 # Add these exclusions for production
 .env
-.env.sit
 .env.prod
 .gitignore
 docker-compose.yaml
